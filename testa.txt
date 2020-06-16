@@ -1,1 +1,2 @@
 created file with name testa.txt
+with file type txt
